@@ -22,7 +22,7 @@ int main()
     nLuas = nPanjang * nLebar;
     cout << "luasnya adalah = " << nLuas << endl;
     
-    cout << " halo gais" << endl;
+    
     cout << " cara menghitung luas persegi panjang";
 }
 
